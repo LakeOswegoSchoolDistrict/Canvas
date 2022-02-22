@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<head>
+  <title>Dashboard</title>
+  <link rel = "icon" href = "CanvasLogo.png" type = "image/x-icon">
+  <style>
+    body{
+      background-color: rgb(36, 30, 30);
+      color: ghostwhite;
+    }
+  </style>
+</head>
+
+<body>
+<iframe src = "https://replit.com/@YodaCode/fx-us-6?lite=1&outputonly=1#.replit" height ="900" width="1895"</iframe>
+</body>
