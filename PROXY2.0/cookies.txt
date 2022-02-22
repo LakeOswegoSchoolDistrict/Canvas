@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-replit.com	TRUE	/	FALSE	1999999999	replit_ng	1645491244.252.54.796198|8035451343a2d8f3e54599c71b2aec19
-replit.com	TRUE	/	FALSE	1999999999	connect.sid	s%3AwbE3mPLdo9KOf42_X30cR48rAK2gI17s.O9CjdqYYBkjlR3SVqr9rwZrvnnP1JQaiNAwIdR5Pf5U
-replit.com	TRUE	/	FALSE	1999999999	SameSite	None
-
