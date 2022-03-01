@@ -6,8 +6,11 @@
 }
 
 .logo {
+    display: flex;
+    padding: 4rem 6rem 5.5rem;
     color: #fff;
     text-transform: uppercase;
+    border-radius: 2rem;
     animation: flicker 1.5s infinite alternate;
     border: 0.4rem solid #fff;
 }
