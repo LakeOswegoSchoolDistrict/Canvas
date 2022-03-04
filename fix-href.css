@@ -1,0 +1,27 @@
+/*
+Made by cens6r 
+Just connect this css file to pages where links dont look good
+
+Connection: <link rel="stylesheet" href="fix-href.css">
+^ Put this in <head>
+
+WARNING: MIGHT BREAK THE NAVBAR
+*/
+
+a {
+    color:aqua;
+    font-family: helvetica;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color:blue;
+}
+
+a:visited {
+    color:darkorchid;
+}
